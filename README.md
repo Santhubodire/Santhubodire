@@ -173,8 +173,10 @@ A collection of Java applications including
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="www.linkedin.com/in/
+santhosh-bodire
+">LinkedIn</a> •
+<a href="mailto:bodiresanthosh2005@gmail.com">Email</a>
 
 </p>
 
