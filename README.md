@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Santhosh Bodire</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Santhosh%20Bodire&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+# Hi 👋 I'm Santhosh Bodire
 
 <h3 align="center">
 Software Engineer | Full Stack Developer | MERN Stack | Java | Python
@@ -145,15 +146,33 @@ A collection of Java applications including
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhubodire&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Santhubodire&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Santhubodire&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santhubodire&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhubodire&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhubodire&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Santhubodire&theme=algolia&margin-w=15&margin-h=15&row=1&column=6"/>
+
+</p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhubodire&theme=github-compact"/>
 
 </p>
 
