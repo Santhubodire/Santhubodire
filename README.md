@@ -16,7 +16,7 @@ Software Engineer | Full Stack Developer | MERN Stack | Java | Python
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/santhosh-bodire)">
+<a href="https://www.linkedin.com/in/santhosh-bodire" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -69,58 +69,112 @@ Software Engineer | Full Stack Developer | MERN Stack | Java | Python
 
 ## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="40"/> <b>Python</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/> <b>JavaScript</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="40"/> <b>HTML5</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="40"/> <b>CSS3</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
 </p>
+
+<p align="left">
+  <b>Java</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>HTML5</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>
+</p>
+
+---
 
 ## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/> <b>React</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> <b>Tailwind CSS</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
 </p>
+
+<p align="left">
+  <b>React</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Tailwind CSS</b>
+</p>
+
+---
 
 ## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> <b>Node.js</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40"/> <b>Express.js</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="55"/>
 </p>
+
+<p align="left">
+  <b>Node.js</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Express.js</b>
+</p>
+
+---
 
 ## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <b>MongoDB</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>MySQL</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
 </p>
+
+<p align="left">
+  <b>MongoDB</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MySQL</b>
+</p>
+
+---
 
 ## 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
 </p>
+
+<p align="left">
+  <b>Git</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Postman</b>
+</p>
+
+---
 
 ## ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/> <b>AWS</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="55"/>
+</p>
+
+<p align="left">
+  <b>AWS</b>
 </p>
 
 ---
@@ -149,9 +203,25 @@ A full-stack eBook platform built using **React**, **Node.js**, **Express.js**, 
 
 # 🏆 Certifications
 
-- ☁️ AWS CloudOps Engineer Associate
-- 🗄️ Oracle Foundations Associate
-- 🤖 Honeywell AI Certification
+<p align="left">
+
+<a href="https://drive.google.com/file/d/1FybvUWfwVwhhzfcR8XxA7bpXdkYjfpgT/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://drive.google.com/file/d/1JEJXvbM7bbgVNPxDc1NUwQnr61TM4EHR/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://drive.google.com/file/d/1B-f8AlqnCBBe65tWNgRFCOXGq2uTo236/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Honeywell-AI%20Certification-005BAC?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
@@ -191,8 +261,15 @@ A full-stack eBook platform built using **React**, **Node.js**, **Express.js**, 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="mailto:bodiresanthosh2005@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/santhosh-bodire">
+  <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Bodire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:bodiresanthosh2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-bodiresanthosh2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
