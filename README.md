@@ -3,7 +3,15 @@
 <h1 align="center">Hi 👋, I'm Santhosh Bodire</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | MERN Stack | Java | Python
+Software Engineer • Full Stack Developer
+</h3>
+
+<h3 align="center">
+Java • Python • MERN Stack
+</h3>
+
+<h3 align="center">
+AI &amp; Data Science Undergraduate @ CBIT
 </h3>
 
 <p align="center">
