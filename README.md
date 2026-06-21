@@ -200,28 +200,26 @@ A full-stack eBook platform built using **React**, **Node.js**, **Express.js**, 
 **BookStream:** https://github.com/Santhubodire/BookStream
 
 ---
-
 # 🏆 Certifications
 
-<p align="left">
+### ☁️ AWS CloudOps Engineer Associate
+Issued by Amazon Web Services
 
-<a href="https://drive.google.com/file/d/1FybvUWfwVwhhzfcR8XxA7bpXdkYjfpgT/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
+🔗 **[View Credential](https://drive.google.com/file/d/1FybvUWfwVwhhzfcR8XxA7bpXdkYjfpgT/view?usp=sharing)**
 
-&nbsp;
+---
 
-<a href="https://drive.google.com/file/d/1JEJXvbM7bbgVNPxDc1NUwQnr61TM4EHR/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
+### 🟥 Oracle Foundations Associate
+Issued by Oracle
 
-&nbsp;
+🔗 **[View Credential](https://drive.google.com/file/d/1JEJXvbM7bbgVNPxDc1NUwQnr61TM4EHR/view?usp=sharing)**
 
-<a href="https://drive.google.com/file/d/1B-f8AlqnCBBe65tWNgRFCOXGq2uTo236/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Honeywell-AI%20Certification-005BAC?style=for-the-badge"/>
-</a>
+---
 
-</p>
+### 🤖 Honeywell AI Certification
+Issued by Honeywell
+
+🔗 **[View Credential](https://drive.google.com/file/d/1B-f8AlqnCBBe65tWNgRFCOXGq2uTo236/view?usp=sharing)**
 
 ---
 
@@ -259,7 +257,7 @@ A full-stack eBook platform built using **React**, **Node.js**, **Express.js**, 
 
 # 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/santhosh-bodire">
   <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Bodire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
